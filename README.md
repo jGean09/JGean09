@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm JGean09</h1>
+<h1 align="center">Hi 👋, I'm Gean</h1>
 <h3 align="center">Um programador em desenvolvimento</h3>
 
-- 🔭 I’m currently student on [UFRN](https://www.ufrn.br/)
+- 🔭 Atualmente sou estudante na [UFRN](https://www.ufrn.br/)
 
-- 🌱 I’m currently learning **Python, Django e C**
+- 🌱 Estou aprendendo **Django, C e JavaScript**
 
-- 💬 Ask me about **Desenvolvimento web**
+- 💬 Pergunte-me sobre **Desenvolvimento web**
 
-- 📫 How to reach me **josegeantlc@gmail.com**
+- 📫 Como entrar em contato comigo **josegeantlc@gmail.com**
