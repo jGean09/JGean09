@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
 
 jobs:
   build:
@@ -18,10 +18,13 @@ jobs:
           github_user_name: JGean09
           output: dist/snake.svg
 
+      - name: Create dist folder if not exists
+        run: mkdir -p dist
+
       - name: Push the generated snake animation
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/snake.svg
-          git commit -m "Generate snake animation"
+          git commit -m "Generate snake animation" || echo "No changes to commit"
           git push
