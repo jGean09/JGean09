@@ -16,4 +16,11 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: JGean09
-          svg_out_path: dist/snake.svg  # Ajuste o caminho conforme necessário
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
+
+      - name: Upload Snake GIF and SVG
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-files
+          path: dist/github-snake.gif, dist/github-snake.svg
