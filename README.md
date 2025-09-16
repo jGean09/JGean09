@@ -14,13 +14,12 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="left">
-  Sou um desenvolvedor focado em <strong>[Sua Paixão, ex: Python e desenvolvimento backend]</strong>, sempre em busca de novos desafios e aprendizados. Atualmente estou cursando <strong>[Seu Curso, ex: Ciência da Computação]</strong> na <strong>[Nome da sua Universidade]</strong>.
+  Sou um desenvolvedor focado em <strong>Python, JavaScript e Aprendizagem de Máquina</strong>, sempre em busca de novos desafios e aprendizados. Atualmente estou cursando <strong>Bacharel em Sistema da Informação</strong> na <strong>Universidade Federal do Rio Grande do Norte</strong>.
 </p>
 
-- 🔭 Atualmente estou trabalhando em... **[Nome do seu projeto pessoal]**
-- 🌱 Estou aprendendo sobre... **[Tecnologia que você está estudando]**
+- 🔭 Atualmente estou trabalhando em contribuindo na Byte Seridó como Desenvolvendor Back-End
+- 🌱 Estou aprendendo sobre Aprendizagem de Máquinas e seus algoritmos
 - 📫 Como me encontrar: **josegeantlc@gmail.com**
-- 😄 Pronomes: **Ele/Dele**
 
 <br>
 
