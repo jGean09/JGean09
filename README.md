@@ -17,7 +17,6 @@
   Sou um desenvolvedor focado em <strong>Python, JavaScript e Aprendizagem de Máquina</strong>, sempre em busca de novos desafios e aprendizados. Atualmente estou cursando <strong>Bacharel em Sistema da Informação</strong> na <strong>Universidade Federal do Rio Grande do Norte</strong>.
 </p>
 
-- 🔭 Atualmente estou contribuindo na Byte Seridó como Desenvolvedor Back-End
 - 🌱 Estou aprendendo sobre Aprendizagem de Máquinas e seus algoritmos
 - 📫 Como me encontrar: **josegeantlc@gmail.com**
 
